@@ -13,7 +13,7 @@ Vrinda store wants to create a annual sales report for 2022, so that they can un
 - 🔍 Relation between age and gender based on number of orders  
 - 🌐 Which channel is contributing to maximum sales?  
 - 🛒 What is the highest selling category?
-- Dashboard interaction <a href="
+- Dashboard interaction <a href="https://github.com/sruthika15/Data-Analysis-Dashboard/blob/main/Screenshot%202026-01-06%20172919.png">View dashboard</a>
 
 ## 🚀Project Workflow
 This dashboard was created following a structured process:
@@ -23,6 +23,10 @@ This dashboard was created following a structured process:
 4. Data Analysis
 5. Dashboard Design
 6. Insights & Storytelling
+
+## Dashboard
+<img width="1345" height="621" alt="Screenshot 2026-01-06 172919" src="https://github.com/user-attachments/assets/fba002b8-a156-49dc-ad2c-ea304aa944a1" />
+
 
 
 
